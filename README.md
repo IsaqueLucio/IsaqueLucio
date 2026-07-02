@@ -1,5 +1,6 @@
 # Isaque Lucio
 **`| Back-End Devoloper`**
+
 My name is Isaque, and I am originally from Franca, São Paulo. I am currently pursuing a degree in Systems Analysis and Development at Fatec Franca (4th semester, with graduation expected in December 2027). I am passionate about technology, challenges, and creating projects with personality, and I am always eager to learn new things.
 
 ---
