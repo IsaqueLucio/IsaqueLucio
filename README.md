@@ -1,7 +1,5 @@
 # Isaque Lucio
-
 **`| Back-End Devoloper`**
-
 My name is Isaque, and I am originally from Franca, São Paulo. I am currently pursuing a degree in Systems Analysis and Development at Fatec Franca (4th semester, with graduation expected in December 2027). I am passionate about technology, challenges, and creating projects with personality, and I am always eager to learn new things.
 
 ---
@@ -24,7 +22,6 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
  />
-
 <img 
     align="left" 
     alt="Bash" 
@@ -33,7 +30,6 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
 />
-
 <img 
     align="left" 
     alt="FastAPI"
@@ -42,7 +38,6 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg"        
 />
-
 <img 
     align="left" 
     alt="SpringBoot"
@@ -51,7 +46,6 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
-
 <img 
     align="left" 
     alt="Docker" 
@@ -60,7 +54,6 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"   
 />
-
 <img 
     align="left" 
     alt="Git"
@@ -69,7 +62,6 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-
 <img 
     align="left" 
     alt="GitHub" 
@@ -78,7 +70,6 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Linux" 
@@ -87,7 +78,6 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg"
 />
-
 <img 
     align="left" 
     alt="Windows" 
@@ -96,7 +86,6 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
 />
-
 <img 
     align="left" 
     alt="Jenkins" 
@@ -129,12 +118,7 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
   />
 </p>
 
-</p>
-
 <div style="clear: both;"></div>
-
-
-<br/>
 
 ---
 
