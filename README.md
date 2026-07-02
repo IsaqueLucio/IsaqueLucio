@@ -109,13 +109,13 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=IsaqueLucio&theme=github_dark&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=IsaqueLucio&theme=transparent&include_all_commits=true"
   />
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=IsaqueLucio&langs_count=4&theme=github_dark" 
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=IsaqueLucio&langs_count=4&theme=transparent" 
   />
 </p>
 
