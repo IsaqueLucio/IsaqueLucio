@@ -118,7 +118,7 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
   />
 </p>
 
-<div style="clear: both;"></div>
+<br clear="both">
 
 ---
 
