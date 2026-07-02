@@ -112,7 +112,7 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     src="https://github-stats-extended.vercel.app/api?username=IsaqueLucio&theme=github_dark&include_all_commits=true"
   />
   <img 
-    align="right" 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-stats-extended.vercel.app/api/top-langs?username=IsaqueLucio&langs_count=4&theme=github_dark" 
