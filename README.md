@@ -80,6 +80,22 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img 
+    align="left"
+    alt="n8n"
+    title="n8n"
+    width="30x"
+    style="padding-right: 10px;"
+    src="https://cdn.simpleicons.org/n8n/EA4B71"  
+/>
+<img 
+    align="left" 
+    alt="Jenkins" 
+    title="Jenkins"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
+/>
+<img 
     align="left" 
     alt="Linux" 
     title="Linux"
@@ -94,14 +110,6 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Jenkins" 
-    title="Jenkins"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg"
 />
 
 <br/>
