@@ -25,14 +25,6 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
  />
 <img 
     align="left" 
-    alt="Bash" 
-    title="Bash"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
-/>
-<img 
-    align="left" 
     alt="FastAPI"
     title="FastAPI" 
     width="30px" 
@@ -86,14 +78,6 @@ My name is Isaque, and I am originally from Franca, São Paulo. I am currently p
     width="30x"
     style="padding-right: 10px;"
     src="https://cdn.simpleicons.org/n8n/EA4B71"  
-/>
-<img 
-    align="left" 
-    alt="Jenkins" 
-    title="Jenkins"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
 />
 <img 
     align="left" 
