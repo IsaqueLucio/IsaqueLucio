@@ -1,7 +1,13 @@
 # Isaque Lucio
 **`| Back-End Devoloper`**
 
-My name is Isaque, and I am originally from Franca, São Paulo. I am currently pursuing a degree in Systems Analysis and Development at Fatec Franca (4th semester, with graduation expected in December 2027). I am passionate about technology, challenges, and creating projects with personality, and I am always eager to learn new things.
+I'm a Back-end Developer and Systems Analysis and Development student at Fatec Franca, with a technical background in Business Administration. My focus is on building reliable back-end systems and evolving toward DevOps practices and cloud infrastructure.
+
+I work with Python, Java, and Spring Boot, and I'm the developer behind ICOL — a Spring Boot system with role-based access control (RBAC) built for a nonprofit organization. I also leverage AI coding agents (OpenCode, GitHub Copilot, Codex) as part of my development workflow.
+
+Currently studying Kubernetes, GitHub Actions, AWS, and observability tools as part of a structured roadmap toward a back-end/DevOps profile. I'm driven by well-structured systems, continuous learning, and collaborative environments.
+
+Back-end Development · Spring Boot · Python · Docker · DevOps · Cloud · Automation
 
 ---
 
