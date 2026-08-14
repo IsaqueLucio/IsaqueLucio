@@ -1,5 +1,5 @@
 # Isaque Lucio
-**`| Back-End Devoloper`**
+**`| Back-End - DevOps Devoloper`**
 
 I'm a Back-end Developer and Systems Analysis and Development student at Fatec Franca, with a technical background in Business Administration. My focus is on building reliable back-end systems and evolving toward DevOps practices and cloud infrastructure.
 
