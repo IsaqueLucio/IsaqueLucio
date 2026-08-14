@@ -121,7 +121,7 @@ Back-end Development · Spring Boot · Python · Docker · DevOps · Cloud · Au
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=IsaqueLucio&langs_count=4&theme=transparent" 
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=IsaqueLucio&layout=donut&langs_count=4&theme=transparent"
   />
 </p>
 
