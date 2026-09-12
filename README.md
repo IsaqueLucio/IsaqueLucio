@@ -29,6 +29,14 @@ Back-end Development · Spring Boot · Python · Docker · DevOps · Cloud · Au
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
  />
+ <img 
+    align="left" 
+    alt="Shell Script(Bash)" 
+    title="Shell Script(Bash)"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
+ />
 <img 
     align="left" 
     alt="FastAPI"
