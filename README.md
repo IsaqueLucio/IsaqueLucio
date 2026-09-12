@@ -45,6 +45,22 @@ Back-end Development · Spring Boot · Python · Docker · DevOps · Cloud · Au
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
+<img
+    align="left" 
+    alt="Pytest"
+    title="Pytest" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg"
+/>
+<img
+    align="left" 
+    alt="JUnit"
+    title="Junit" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"
+/>
 <img 
     align="left" 
     alt="PostgreeSQL" 
